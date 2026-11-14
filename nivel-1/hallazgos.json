@@ -1,0 +1,56 @@
+[
+  {
+    "contrato": "C-101",
+    "clausula": "C01",
+    "articulo": 12,
+    "explicacion": "La cláusula fija un depósito de 1,90 cánones base. El artículo 12 limita el depósito total, cualquiera sea su denominación, a 1,35 veces el canon base (1.350 calines sobre un canon de 1.000). El 1,90 era el máximo anterior, sustituido por el artículo 40 para contratos celebrados desde el 01/03/2026, y este contrato es del 02/09/2026. No rige el tope ampliado del artículo 13 porque la vivienda se entrega sin bienes muebles (el Anexo II sólo menciona instalaciones fijas), ni hay hogar protegido del artículo 29. Conforme al artículo 3, el exceso queda sustituido por el máximo legal y la firma no convalida la renuncia."
+  },
+  {
+    "contrato": "C-101",
+    "clausula": "C03",
+    "articulo": 18,
+    "explicacion": "La cláusula permite inspeccionar con doce horas de aviso, en cualquier horario, sin aceptación del ocupante y sin emergencia. El artículo 18 exige para toda visita aviso de cuarenta y dos horas, consentimiento y horario entre las nueve y las dieciocho; sólo admite ingresar sin ese plazo ante riesgo material inminente de incendio, inundación o derrumbe, con asistencia técnica y limitado a lo indispensable, y aclara que no basta el deseo de inspeccionar. La cláusula incumple los tres requisitos a la vez y no invoca ninguna de las excepciones. Es una garantía de habitación obligatoria según el artículo 3, por lo que rige el régimen legal."
+  },
+  {
+    "contrato": "C-101",
+    "clausula": "C04",
+    "articulo": 11,
+    "explicacion": "La cláusula pacta un interés simple diario de 0,25 % con máximo de 3,8 % por ciclo. El artículo 11 fija como máximo 0,08 % diario del canon vencido impago y una acumulación de 2,4 % de ese canon dentro de un ciclo; el artículo 40 confirma que el 0,08 % reemplazó al anterior 0,12 % conservando los demás límites. La cláusula supera ambos topes, aunque respete los cuatro días de tolerancia del artículo 10. Sólo puede pactarse un interés inferior al legal, no superior, y según el artículo 3 la tasa queda reducida a los máximos legales."
+  },
+  {
+    "contrato": "C-102",
+    "clausula": "C06",
+    "articulo": 14,
+    "explicacion": "La cláusula retiene todo el depósito durante sesenta días desde la entrega de llaves, sin individualizar daños ni gastos. El artículo 14 obliga a restituir el saldo dentro de once días de la entrega de llaves y sólo admite descontar deuda individualizada y daño imputable con respaldo. La única retención adicional permitida es de hasta 0,22 del último canon, durante nueve días más, por un gasto de reparación ya identificado que carezca de presupuesto, entregando el resto en término. La cláusula excede el plazo, el monto retenible y omite la individualización exigida, por lo que se sustituye por el régimen legal (artículo 3)."
+  },
+  {
+    "contrato": "C-102",
+    "clausula": "C07",
+    "articulo": 5,
+    "explicacion": "La cláusula fija un plazo inicial de doce ciclos para una locación ordinaria. El artículo 5 establece que la duración inicial no será inferior a diecinueve ciclos y que un plazo menor se integra hasta ese mínimo. La única vía para reducirla es la estadía transitoria del artículo 6, que la propia cláusula descarta al decir que no se invoca traslado ni estadía de estudios; además no hay constancia certificada ni otra vivienda habitual individualizada, y doce ciclos tampoco entran en el rango de siete a once que ese artículo permite. El plazo se integra a diecinueve ciclos."
+  },
+  {
+    "contrato": "C-102",
+    "clausula": "C08",
+    "articulo": 8,
+    "explicacion": "La cláusula autoriza aumentos de doce por ciento cada tres ciclos desde la firma. El artículo 8 exige seis ciclos completos desde la fijación anterior para el primer ajuste y para cada ajuste posterior, y limita el incremento a 7,3 % del canon inmediatamente anterior o a la variación positiva del índice cívico del artículo 38 si fuera menor. La cláusula viola el intervalo y el tope, y además fija un porcentaje sin referencia al índice cívico. Sólo la opción cooperativa del artículo 9 puede modificar esos límites y la cláusula declara que no se pactó; aun así, el 12 % cada tres ciclos también superaría el 9,1 % cada cuatro ciclos de esa opción."
+  },
+  {
+    "contrato": "C-103",
+    "clausula": "C01",
+    "articulo": 37,
+    "explicacion": "La cláusula cobra obligatoriamente al firmar un arancel de apertura de 0,17 del canon base, invocando el artículo 36. El artículo 37 prohíbe imponer tasa de apertura fuera de consumos, indemnizaciones, garantías y gastos expresamente autorizados. El fundamento invocado no existe: el artículo 36 fue derogado íntegramente por el artículo 40 desde el 01/03/2026 y carece de vigencia para contratos alcanzados por el texto actual, como éste, celebrado el 04/09/2026. Tampoco es un trabajo separado libremente solicitado, porque es condición para acceder a la vivienda. Por el artículo 3, la firma o el pago previo no convalidan el cargo."
+  },
+  {
+    "contrato": "C-103",
+    "clausula": "C06",
+    "articulo": 22,
+    "explicacion": "La cláusula impone una indemnización de 0,90 cánones vigentes por la salida anticipada tras cuatro ciclos con veintitrés días de preaviso. El artículo 22 permite al locatario restituir en esas mismas condiciones abonando como máximo 0,38 del canon vigente, y excluye toda indemnización cuando la salida responde a una reparación esencial incumplida e intimada conforme al artículo 17. La cláusula supera en más del doble el tope legal y no contempla ese supuesto de exención. Por el artículo 3, la indemnización queda limitada a 0,38."
+  },
+  {
+    "contrato": "C-103",
+    "clausula": "C07",
+    "articulo": 17,
+    "explicacion": "La cláusula da al locador treinta días para resolver una reparación estructural y el mismo plazo para un peligro actual para el suministro esencial. El artículo 17 exige resolver el defecto estructural dentro de ocho días de recibido el aviso y el peligro actual para la salud o el suministro esencial dentro de dieciocho horas. Ampliar esos plazos posterga además el derecho del locatario a intervenir y compensar el gasto necesario hasta 0,65 del canon vigente por episodio, y afecta la exención de indemnización del artículo 22. Es una garantía de habitación obligatoria (artículo 3), por lo que rigen los plazos legales."
+  }
+]
