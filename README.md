@@ -11,3 +11,7 @@ Repositorio del equipo **Heráclito.IA** para el desafío Platón (Tertulia).
 - `nivel-2/hallazgos.json` — entrega del nivel 2 (veinte contratos y 120 fallos)
 - `nivel-2/codigo/` — buscador de fallos (SQLite FTS5) con su README, consultas y resultados
 - `nivel-2/enunciado.md`, `nivel-2/contratos/`, `nivel-2/fallos/` — material del nivel 2
+- `nivel-3/hallazgos.json` — entrega del nivel 3 (diez contratos escaneados)
+- `nivel-3/ocr/` — texto crudo del OCR local, uno por contrato
+- `nivel-3/enviado-al-modelo/` — registro de lo enviado al modelo externo
+- `nivel-3/codigo/` — scripts de OCR y anonimización locales
