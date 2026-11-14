@@ -128,7 +128,8 @@ def controlar(texto, nombres):
     palabras = [clave(w) for w in re.findall(r"[A-Za-zÁÉÍÓÚÜÑáéíóúüñ]+", texto)]
     return {
         "nombres_conocidos": sum(w in nombres for w in palabras),
-        "digitos_7_o_mas": len(re.findall(r"\d(?:\D?\d){6,}", texto)),
+        "digitos_7_o_mas": len([m for m in re.findall(r"\d(?:\D?\d){6,}", texto)
+                                if not re.fullmatch(r"\d{2}/\d{2}/\d{4}", m)]),  # las fechas no cuentan
         "arrobas": texto.count("@"),
         "calles_con_numero": len(re.findall(rf"(?:{CALLES})\s+\D{{0,40}}\d", texto, re.I)),
     }
